@@ -10,6 +10,6 @@ Repository = "https://github.com/jurdnisglobby/ComfyUI-Jurdns-Groq-Node"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "jurdn"
 DisplayName = "ComfyUI-Jurdns-Groq-Node"
 Icon = ""
